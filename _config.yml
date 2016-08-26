@@ -16,5 +16,8 @@ navigation:
   - name: Stumpjumper Graffitti
     id: 49071bbc-7c5e-4f85-b7b7-a7881a53711a
     type: content
+  - name: Mr.Surly
+    id: 1df48595-002a-42da-b8ef-4e3ac2729c2e
+    type: content
 title: The Thinking Traveller
 description: Fleeting Thoughts
