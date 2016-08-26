@@ -19,5 +19,8 @@ navigation:
   - name: Mr.Surly
     id: 1df48595-002a-42da-b8ef-4e3ac2729c2e
     type: content
+  - name: Seeing What Happens
+    id: 5237fac0-4f96-4689-936b-2f066060d88b
+    type: content
 title: The Thinking Traveller
 description: Fleeting Thoughts
