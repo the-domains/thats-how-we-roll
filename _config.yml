@@ -12,5 +12,9 @@ color:
     - '#004E98'
 layout_spectrum: 0.5839795116335154
 name: That's How We Roll
+navigation:
+  - name: Stumpjumper Graffitti
+    id: 49071bbc-7c5e-4f85-b7b7-a7881a53711a
+    type: content
 title: The Thinking Traveller
 description: Fleeting Thoughts
