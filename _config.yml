@@ -22,5 +22,8 @@ navigation:
   - name: Seeing What Happens
     id: 5237fac0-4f96-4689-936b-2f066060d88b
     type: content
+  - name: World Biking
+    url: 'http://www.worldbiking.info/wordpress/about-world-biking/'
+    type: external
 title: The Thinking Traveller
-description: Fleeting Thoughts on a Fleeting Life
+description: Fleeting Thoughts
