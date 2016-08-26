@@ -1,3 +1,4 @@
+layout_spectrum: 0.5839795116335154
 typography_spectrum: 0.1298545345198363
 color:
   brandStrength: 0.3975446030963212
@@ -10,20 +11,4 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-layout_spectrum: 0.5839795116335154
 name: That's How We Roll
-navigation:
-  - name: Stumpjumper Graffitti
-    id: 49071bbc-7c5e-4f85-b7b7-a7881a53711a
-    type: content
-  - name: Mr.Surly
-    id: 1df48595-002a-42da-b8ef-4e3ac2729c2e
-    type: content
-  - name: Seeing What Happens
-    id: 5237fac0-4f96-4689-936b-2f066060d88b
-    type: content
-  - name: World Biking
-    url: 'http://www.worldbiking.info/wordpress/about-world-biking/'
-    type: external
-title: The Thinking Traveller
-description: Fleeting Thoughts
